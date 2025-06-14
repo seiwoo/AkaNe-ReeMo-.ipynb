@@ -1,5 +1,5 @@
 # AkaNe-ReeMo-.ipynb
-- Project During the Internship at GMO Ad.Marketing(Japan). The company creates user interface for advertisement price and sale management.
+- Project During the Internship at **GMO Niko Inc**(Japan). The company creates user interface for advertisement price and sale management.
 
 - Developed a system to identify images of advertisements displayed on the GMOs website, which hosts over 5,000 internet advertisements. The objective was to transfer the information to a new system platform efficiently.
 
