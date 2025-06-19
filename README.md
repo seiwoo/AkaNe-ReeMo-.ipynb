@@ -1,4 +1,4 @@
-# AkaNe-ReeMo-.ipynb(GMO Intern Project)
+# AkaNe-ReeMo Project (GMO Intern Project)
 
 **Programming Language** : Python
 
